@@ -1,0 +1,6 @@
+bokeh>=3.4.3
+ipykernel>=6.31.0
+keras>=3.10.0
+matplotlib>=3.9.4
+numpy>=2.0.2
+tensorflow>=2.20.0
